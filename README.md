@@ -10,10 +10,12 @@ An application that allows users to search and look up information about movies 
 
 ## Screenshots
 
-![Home Page]()
-![Serries]()
-![Upolad Movies]()
-![Search Movies]()
+![Home Page](https://github.com/SinaSS77/Movie_Island/blob/main/movie-react/src/assets/ScreenShots/Screenshot%202023-03-30%20at%201.19.46%20PM.png)
+![Home Page2](https://github.com/SinaSS77/Movie_Island/blob/main/movie-react/src/assets/ScreenShots/Screenshot%202023-03-30%20at%201.19.58%20PM.png)
+![Serries](https://github.com/SinaSS77/Movie_Island/blob/main/movie-react/src/assets/ScreenShots/Screenshot%202023-03-30%20at%201.20.14%20PM.png)
+![Upolad Movies](https://github.com/SinaSS77/Movie_Island/blob/main/movie-react/src/assets/ScreenShots/Screenshot%202023-03-30%20at%201.20.28%20PM.png)
+![Search Movies](https://github.com/SinaSS77/Movie_Island/blob/main/movie-react/src/assets/ScreenShots/Screenshot%202023-03-30%20at%201.20.51%20PM.png)
+![Login Page](https://github.com/SinaSS77/Movie_Island/blob/main/movie-react/src/assets/ScreenShots/Screenshot%202023-03-30%20at%203.16.29%20PM.png)
 
 ## Setup
 
