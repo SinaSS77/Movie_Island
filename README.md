@@ -1,7 +1,7 @@
 # Movie Island
 
 An application that allows users to search and look up information about movies and also watch their trailers. The application includes pages, search functionality,Also the ability for users to upload their own videos and movies.
-        * To have access to the home page users have to  login. Now, for saveing the time, we have already logged in.
+        * To have access to the home page users have to  login.
 
         * In the banner of  each page There is a random movie, its description and a play button leads user to watch its trailer.
         * In the Navigation bar in the top, we have access to the series and movies that user gonna upload them . Also upload and search buttons and logging out.
