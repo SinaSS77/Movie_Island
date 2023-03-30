@@ -20,8 +20,8 @@ An application that allows users to search and look up information about movies 
 ## Setup
 
 1. After Clone, Run `npm install` to install dependencies from tha main folder.
-2. Inside the terminal, from the "api" folder run "npm start" to have access to the MongoDB database.
-3. Inside the second terminal window, from the "movie-react" folder run "npm start".
+2. Inside the terminal, from the *api* folder run `npm start` to have access to the MongoDB database.
+3. Inside the second terminal window, from the *movie-react* folder run `npm start`.
 4. Enjoy the app! 😃
 
 
